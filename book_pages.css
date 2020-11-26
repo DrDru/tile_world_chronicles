@@ -168,10 +168,13 @@ float: none;
   color: white;
   padding: 00px 0px;
   font-size: 120%;
+ 
   overflow-x: hidden; /* Hide horizontal scrollbar */
   overflow-y: scroll; /* Add vertical scrollbar */
 
 }
+
+
 
 .dialogue {
 
