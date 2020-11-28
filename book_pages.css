@@ -2,7 +2,7 @@ body {
 
          background-image: url("space_lf_0.png");
         background-repeat: repeat;
-       font-weight: bold;
+       
  }
 
 
@@ -167,7 +167,6 @@ float: none;
   background-color: black;
   color: white;
   padding: 00px 0px;
-  font-size: 120%;
  
   overflow-x: hidden; /* Hide horizontal scrollbar */
   overflow-y: scroll; /* Add vertical scrollbar */
@@ -178,7 +177,7 @@ float: none;
 
 .dialogue {
 
-  
+  font-size: 120%;
   border: 1px solid white;
   font-family: "Trebuchet MS";
   margin-bottom: 10px;
@@ -200,4 +199,22 @@ float: none;
      text-align: center;
      padding-top: 5%
 
+}
+
+.character  {
+    height: 90px;
+    width: 60px;
+}
+
+.aaa {
+
+  border-radius: 20px 20px 0px 0px;
+  width: 100%;
+  height: 300px;
+
+}
+
+.small_character  {
+    height: 80px;
+    width: 63px;
 }
